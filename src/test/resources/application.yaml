@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+      - uri: http://no-op
+        predicates:
+        - Host=v1.example.com
+        filters:
+        - StripPrefix=0
+        - Redirect=301, example.com
