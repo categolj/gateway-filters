@@ -1,10 +1,10 @@
-package com.vmware.scg.extensions;
+package com.vmware.scg.extensions.filter;
 
 import java.net.URI;
 import java.util.Arrays;
 import java.util.List;
 
-import com.vmware.scg.extensions.RedirectGatewayFilterFactory.Config;
+import com.vmware.scg.extensions.filter.RedirectGatewayFilterFactory.Config;
 import reactor.core.publisher.Mono;
 
 import org.springframework.cloud.gateway.filter.GatewayFilter;

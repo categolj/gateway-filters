@@ -9,7 +9,7 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>am.ik.gateway</groupId>
+	<groupId>com.vmware.scg.extensions</groupId>
 	<artifactId>gateway-filters</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gateway-filters</name>

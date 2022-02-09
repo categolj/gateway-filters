@@ -1,4 +1,4 @@
-package com.vmware.scg.extensions;
+package com.vmware.scg.extensions.filter;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
